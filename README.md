@@ -1,6 +1,6 @@
 # 2026 最新 ChatGPT代充完整指南：充值价格、渠道挑选与避坑
 
-> 📌 **最后更新：2026年10月8日** | 状态：**实测有效** ✅ | 价格已按 OpenAI 最新定价核验（GPT-6 系列自 2026 年 10 月 7 日起进入付费档日常对话（菜单显示为 GPT-6）；Astra 在 Plus 的 Work / Codex 中可用，在 Pro 及以上的 Chat 中显示为 GPT-6 Pro，订阅价未变）
+> 📌 **最后更新：2026年11月27日** | 状态：**实测有效** ✅ | 价格已按 OpenAI 最新定价核验（GPT-6 系列自 2026 年 10 月 7 日起进入付费档日常对话（菜单显示为 GPT-6）；Astra 在 Plus 的 Work / Codex 中可用，在 Pro 及以上的 Chat 中显示为 GPT-6 Pro，订阅价未变）
 
 > 🧭 **快速回答（TL;DR）**：ChatGPT Plus 官方 **20美元/月**，自助开通代充的人民币价约 **¥178/月**（Plus）／**¥850/月**（Pro 100）／**¥1450/月**（Pro 200），以商品页实时价为准；付款后粘贴开通凭证与账号标识，约 **1–5 分钟**生效；全程**不提供密码**，开通后按文末「安全收尾三步」处理。
 
@@ -223,23 +223,31 @@
 
 ---
 
+## ⭐ ChatGPT 代充 关键词索引（SEO 扩展版）
+
+ChatGPT 代充、ChatGPT 代充靠谱吗、ChatGPT 代充价格、ChatGPT Plus 代充、ChatGPT Pro 代充、ChatGPT 会员代充、ChatGPT 充值、ChatGPT 国内充值、ChatGPT 支付宝充值、ChatGPT 微信支付充值、ChatGPT Plus 多少钱一个月、ChatGPT 代充会不会封号、ChatGPT 代充和成品号区别、ChatGPT 代充渠道怎么选、ChatGPT 自助开通流程、ChatGPT 卡密兑换、ChatGPT 充值失败退款、ChatGPT 续费、ChatGPT 虚拟信用卡、ChatGPT 美区礼品卡、ChatGPT 拼车合租风险、ChatGPT Codex 额度、ChatGPT Deep Research、GPT-6 Astra、GPT-5.6 Sol、ChatGPT 账号安全、代充平台判断标准、2026 ChatGPT 代充攻略。
+
+---
+
 ## 🔗 其他 AI 会员充值相关文章
 
-- **[ChatGPT Plus 国内开通完整指南](https://aiwyy.com/article/chatgpt-plus-recharge-china-2026/)** —— GPT-6 全系解锁
-- **[Claude Pro 国内开通完整教程](https://aiwyy.com/article/claude-pro-recharge-china-2026/)** —— Opus 5.5 / Sonnet 5.5 全解锁、Max 档位怎么选
-- **[Claude 代充指南](https://aiwyy.com/article/claude-pro-max-daichong-2026/)** —— Claude Pro / Max 充值多少钱
-- **[SuperGrok 国内开通教程](https://aiwyy.com/article/grok-recharge-china-2026/)** —— Grok 4.6 四档订阅对比
-- **[Grok 会员充值指南](https://aiwyy.com/article/grok-supergrok-chongzhi-2026/)** —— SuperGrok / Heavy 代充
-- **[Google AI Pro（Gemini）国内开通指南](https://aiwyy.com/article/gemini-recharge-china-2026/)** —— Gemini 3.1 Pro 全解锁、Veo 3.1 视频生成
+本系列按平台拆成独立仓库，方便按需查阅（均为公开笔记，持续更新）：
 
+- **[ChatGPT Plus / Pro 国内充值笔记](https://github.com/911kakakaka-jpg/chatgpt-plus-recharge-guide)** —— 四种开通方式对比与避坑
+- **[Claude Pro / Max 国内充值笔记](https://github.com/911kakakaka-jpg/claude-pro-recharge-guide)** —— 档位差异与支付方式对比
+- **[Claude Pro / Max 代充指南](https://github.com/911kakakaka-jpg/claude-daichong-guide)** —— 自助开通、账号体检与风控说明
+- **[Google AI Pro 国内充值笔记](https://github.com/911kakakaka-jpg/gemini-advanced-recharge-guide)** —— 套餐对比与开通流程
+- **[Grok 代充指南](https://github.com/911kakakaka-jpg/grok-daichong-guide)** —— 五档价格与自助开通
+
+---
 
 ## 📚 更多深度指南（按平台整理，持续更新）
 
 以下为独立的 AI 会员代充指南站，按四个平台整理了更细的版本对比、价格区间与避坑清单，可作为本文的延伸阅读：
 
-- **[ChatGPT Plus 代充完整指南（2026 版）](https://aiwyy.com/article/chatgpt-plus-daichong-2026/)** —— 渠道对比、价格区间、下单验收清单
-- **[ChatGPT 新手使用教程](https://aiwyy.com/article/chatgpt-plus-complete-guide-2026/)** —— 开通后怎么上手、常用功能与提问技巧
-- **[AI 会员代充指南中心](https://aiwyy.com/)** —— ChatGPT / Grok / Gemini / Claude 四平台攻略汇总
+- **[ChatGPT Plus 代充完整指南（2026 版）](https://www.hxkjai.top/guides/chatgpt-plus-daichong-china-2026/)** —— 渠道对比、价格区间、下单验收清单
+- **[ChatGPT Plus 国内充值教程](https://www.hxkjai.top/guides/chatgpt-plus-recharge-china-2026/)** —— 三条支付路径与到账验收
+- **[AI 会员代充指南中心](https://www.hxkjai.top/guides/)** —— ChatGPT / Grok / Gemini / Claude 四平台攻略汇总
 
 ---
 
